@@ -1,0 +1,147 @@
+[
+    {
+        "drug": {
+            "name": "Sanlitor-20",
+            "strength": "20mg Atorvastatin",
+            "dosage_form": "Viên nén bao phim",
+            "registration_number": "890110006100",
+            "packaging": "Hộp 3 vỉ x 10 viên",
+            "indication": "- Atorvastatin được chỉ định để làm giảm cholesterol toàn phần, LDL-cholesterol, apolipoprotein B và triglycerid và để làm tăng HDL-cholesterol ở các bệnh nhân có tăng cholesterol máu nguyên phát - Bệnh nhân rối loạn betalipoprotein máu mà không đáp ứng đầy đủ với chế độ ăn. - Atorvastatin cũng được chỉ định để làm giảm cholesterol toàn phần và LDL-cholesterol ở các bệnh nhân có tăng cholesterol máu có tính gia đình đồng hợp tử khi chế độ ăn.",
+            "usage": "Thuốc có thể dùng bất cứ lúc nào trong ngày, không cần chú ý đến bữa ăn. Tăng cholesterol máu (có tính gia đình dị hợp tử và không có tính gia đình) và rối loạn lipid máu hỗn hợp: liều khởi đầu được khuyến cáo là 10-20mg, 1lần/ngày. Những bệnh nhân cần giảm LDL cholesterol nhiều (trên 45%) có thể bắt đầu bằng liều 40mg, 1lần/ngày. Khoảng liều điều trị của thuốc là 10-80mg một lần mỗi ngày. Sau khi bắt đầu điều trị và/hoặc sau khi tăng liều atorvastatin cần đánh giá các chỉ số lipid máu trong vòng 2 tới 4 tuần và để điều chỉnh liều cho thích hợp. Tăng cholesterol máu có tính chất gia đình đồng hợp tử: 10-80mg/ngày. Cần được phối hợp với những biện pháp hạ lipid khác. Điều trị phối hợp: Atorvastatin có thể được điều trị phối hợp với resin nhằm tăng hiệu quả điều trị. Liều dùng ở người suy thận: không cần điều chỉnh liều.",
+            "contraindication": "Mẫn cảm với thuốc ức chế men khử HMG-CoA Bệnh nhân bệnh gan tiến triển hoặc tăng transaminase huyết thanh liên tục mà không rõ nguyên nhân. Phụ nữ có thai và cho con bú.",
+            "side_effect": "Atorvastatin nói chung được dung nạp tốt, tác dụng phụ thường nhẹ và thoáng qua. Có thể xảy ra tác dụng phụ khi dùng thuốc như: táo bón, đầy hơi, khó tiêu, đau bụng, buồn nôn, nôn, đau đầu, chóng mặt.",
+            "interaction": "- Thuốc chống đông, indandione phối hợp với atorvastatin sẽ làm tăng thời gian chảy máu hoặc thời gian prothrombin. Phải theo dõi thời gian prothrombin ở các bệnh nhân dùng phối hợp với thuốc chống đông - Cyclosporine, erythromycin, gemfibrozil, thuốc ức chế miễn dịch, niacin: dùng phối hợp gây nguy cơ tăng nguy cơ bệnh cơ. - Digoxin: dùng phối hợp với atorvastatin gây tăng nhẹ nồng độ digoxin trong huyết thanh",
+            "warning": "",
+            "storage": "Bảo quản nơi khô, mát. Tránh ánh sáng."
+        },
+        "ingredients": [
+            {
+                "name": "Atorvastatin",
+                "strength": "20mg Atorvastatin",
+                "effect": "",
+                "indication": "- Atorvastatin được chỉ định để làm giảm cholesterol toàn phần, LDL-cholesterol, apolipoprotein B và triglycerid và để làm tăng HDL-cholesterol ở các bệnh nhân có tăng cholesterol máu nguyên phát - Bệnh nhân rối loạn betalipoprotein máu mà không đáp ứng đầy đủ với chế độ ăn. - Atorvastatin cũng được chỉ định để làm giảm cholesterol toàn phần và LDL-cholesterol ở các bệnh nhân có tăng cholesterol máu có tính gia đình đồng hợp tử khi chế độ ăn.",
+                "dosage": "Thuốc có thể dùng bất cứ lúc nào trong ngày, không cần chú ý đến bữa ăn. Tăng cholesterol máu (có tính gia đình dị hợp tử và không có tính gia đình) và rối loạn lipid máu hỗn hợp: liều khởi đầu được khuyến cáo là 10-20mg, 1lần/ngày. Những bệnh nhân cần giảm LDL cholesterol nhiều (trên 45%) có thể bắt đầu bằng liều 40mg, 1lần/ngày. Khoảng liều điều trị của thuốc là 10-80mg một lần mỗi ngày. Sau khi bắt đầu điều trị và/hoặc sau khi tăng liều atorvastatin cần đánh giá các chỉ số lipid máu trong vòng 2 tới 4 tuần và để điều chỉnh liều cho thích hợp. Tăng cholesterol máu có tính chất gia đình đồng hợp tử: 10-80mg/ngày. Cần được phối hợp với những biện pháp hạ lipid khác. Điều trị phối hợp: Atorvastatin có thể được điều trị phối hợp với resin nhằm tăng hiệu quả điều trị. Liều dùng ở người suy thận: không cần điều chỉnh liều.",
+                "contraindication": "Mẫn cảm với thuốc ức chế men khử HMG-CoA Bệnh nhân bệnh gan tiến triển hoặc tăng transaminase huyết thanh liên tục mà không rõ nguyên nhân. Phụ nữ có thai và cho con bú.",
+                "interaction": "- Thuốc chống đông, indandione phối hợp với atorvastatin sẽ làm tăng thời gian chảy máu hoặc thời gian prothrombin. Phải theo dõi thời gian prothrombin ở các bệnh nhân dùng phối hợp với thuốc chống đông - Cyclosporine, erythromycin, gemfibrozil, thuốc ức chế miễn dịch, niacin: dùng phối hợp gây nguy cơ tăng nguy cơ bệnh cơ. - Digoxin: dùng phối hợp với atorvastatin gây tăng nhẹ nồng độ digoxin trong huyết thanh",
+                "side_effect": "Atorvastatin nói chung được dung nạp tốt, tác dụng phụ thường nhẹ và thoáng qua. Có thể xảy ra tác dụng phụ khi dùng thuốc như: táo bón, đầy hơi, khó tiêu, đau bụng, buồn nôn, nôn, đau đầu, chóng mặt.",
+                "warning": ""
+            }
+        ]
+    },
+    {
+        "drug": {
+            "name": "Neo-Allerfar 25mg Pharmedic",
+            "strength": "25mg",
+            "dosage_form": "Viên nang",
+            "registration_number": "893100881924",
+            "packaging": "Hộp 10 vỉ x 10 viên nang",
+            "indication": "- Dị ứng: viêm mũi dị ứng theo mùa hoặc quanh năm, viêm mũi vận mạch, viêm kết mạc dị ứng . - Dị ứng da, mề đay , chóng mặt , mất ngủ, chống bệnh Parkinson. - Ho do lạnh. - Trị dị ứng do thực phẩm và do các chất gây dị ứng hít phải. - Trị dị ứng da do côn trùng chích, cắn. - Ngừa và trị buồn nôn và nôn do say tàu xe.",
+            "usage": "- Người lớn & trẻ > 12 tuổi: 25 - 50 mg trong 4 - 6 giờ, tối đa 300 mg/24 giờ. - Trẻ 6 - 12 tuổi: 25 mg trong 4 - 6 giờ, không quá 72 mg /24 giờ. - Trẻ < 6 tuổi: theo chỉ định bác sĩ.",
+            "contraindication": "Quá mẫn với thuốc. Viêm phổi mãn tính. Glaucome góc đóng. Bí tiểu do rối loạn niệu đạo tuyến tiền liệt. Sơ sinh, trẻ sinh thiếu tháng. Phụ nữ nuôi con bú.",
+            "side_effect": "Ngủ gật, khô miệng, loạn thị giác.",
+            "interaction": "Không nên phối hợp với rượu, benzodiazepine, IMAO & chống trầm cảm 3 vòng.",
+            "warning": "",
+            "storage": ""
+        },
+        "ingredients": [
+            {
+                "name": "Diphenhydramine",
+                "strength": "25mg",
+                "effect": "",
+                "indication": "- Dị ứng: viêm mũi dị ứng theo mùa hoặc quanh năm, viêm mũi vận mạch, viêm kết mạc dị ứng . - Dị ứng da, mề đay , chóng mặt , mất ngủ, chống bệnh Parkinson. - Ho do lạnh. - Trị dị ứng do thực phẩm và do các chất gây dị ứng hít phải. - Trị dị ứng da do côn trùng chích, cắn. - Ngừa và trị buồn nôn và nôn do say tàu xe.",
+                "dosage": "- Người lớn & trẻ > 12 tuổi: 25 - 50 mg trong 4 - 6 giờ, tối đa 300 mg/24 giờ. - Trẻ 6 - 12 tuổi: 25 mg trong 4 - 6 giờ, không quá 72 mg /24 giờ. - Trẻ < 6 tuổi: theo chỉ định bác sĩ.",
+                "contraindication": "Quá mẫn với thuốc. Viêm phổi mãn tính. Glaucome góc đóng. Bí tiểu do rối loạn niệu đạo tuyến tiền liệt. Sơ sinh, trẻ sinh thiếu tháng. Phụ nữ nuôi con bú.",
+                "interaction": "Không nên phối hợp với rượu, benzodiazepine, IMAO & chống trầm cảm 3 vòng.",
+                "side_effect": "Ngủ gật, khô miệng, loạn thị giác.",
+                "warning": ""
+            }
+        ]
+    },
+    {
+        "drug": {
+            "name": "Dobutamine-hameln 12,5mg/ml Injection",
+            "strength": "12,5mg Dobutamin/ml",
+            "dosage_form": "Dung dịch tiêm truyền",
+            "registration_number": "400110783524",
+            "packaging": "Hộp 5 ống x 20ml",
+            "indication": "Thiểu năng cơ tim đang tiến triển: nhồi máu cơ tim, sau phẫu thuật mở tim, nghẽn động mạch phổi trầm trọng hoặc sốc do ngộ độc.",
+            "usage": "- Pha 1 lọ với 20 mL dd G5%, pha tiếp trong 250 - 500 mL dd G5% hay NaCl 0,9%, truyền IV chậm: + Người lớn 2,5 đến 10 mcg/kg/phút. + Trẻ em: 2,5 - 5 mcg/kg/phút. - Liều dùng & tốc độ theo HA, mạch, HA tĩnh mạch trung tâm & bài niệu giờ.",
+            "contraindication": "Quá mẫn với thành phần của thuốc, Bệnh phì đại cơ tim làm hẹp đường lưu thông tâm thất trái, Phụ nữ có thai.",
+            "side_effect": "- Tăng HA & nhịp tim. - Ðôi khi: bồn chồn, nôn, đau & váng đầu, đánh trống ngực.",
+            "interaction": "- Không dùng với albuterol, cimetidin, furazolidon, IMAO. Insulin. - Không pha thuốc trong dd kiềm, dd có Na pyrosulphite.",
+            "warning": "",
+            "storage": ""
+        },
+        "ingredients": [
+            {
+                "name": "Dobutamine",
+                "strength": "12,5mg Dobutamin/ml",
+                "effect": "",
+                "indication": "Thiểu năng cơ tim đang tiến triển: nhồi máu cơ tim, sau phẫu thuật mở tim, nghẽn động mạch phổi trầm trọng hoặc sốc do ngộ độc.",
+                "dosage": "- Pha 1 lọ với 20 mL dd G5%, pha tiếp trong 250 - 500 mL dd G5% hay NaCl 0,9%, truyền IV chậm: + Người lớn 2,5 đến 10 mcg/kg/phút. + Trẻ em: 2,5 - 5 mcg/kg/phút. - Liều dùng & tốc độ theo HA, mạch, HA tĩnh mạch trung tâm & bài niệu giờ.",
+                "contraindication": "Quá mẫn với thành phần của thuốc, Bệnh phì đại cơ tim làm hẹp đường lưu thông tâm thất trái, Phụ nữ có thai.",
+                "interaction": "- Không dùng với albuterol, cimetidin, furazolidon, IMAO. Insulin. - Không pha thuốc trong dd kiềm, dd có Na pyrosulphite.",
+                "side_effect": "- Tăng HA & nhịp tim. - Ðôi khi: bồn chồn, nôn, đau & váng đầu, đánh trống ngực.",
+                "warning": ""
+            }
+        ]
+    },
+    {
+        "drug": {
+            "name": "Obelix",
+            "strength": "",
+            "dosage_form": "Viên nang cứng",
+            "registration_number": "VD-1054-06",
+            "packaging": "Hộp 1 vỉ x 8 viên, hộp 2 vỉ, 5 vỉ, 10 vỉ x 8 viên nang cứng",
+            "indication": "",
+            "usage": "",
+            "contraindication": "",
+            "side_effect": "",
+            "interaction": "",
+            "warning": "",
+            "storage": ""
+        },
+        "ingredients": [
+            {
+                "name": "Piperaquin",
+                "strength": "",
+                "effect": "",
+                "indication": "",
+                "dosage": "",
+                "contraindication": "",
+                "interaction": "",
+                "side_effect": "",
+                "warning": ""
+            }
+        ]
+    },
+    {
+        "drug": {
+            "name": "Domela",
+            "strength": "300 mg",
+            "dosage_form": "Viên nén bao phim",
+            "registration_number": "VD-29988-18",
+            "packaging": "Hộp 3 vỉ, 6 vỉ, 10 vỉ x 10 viên",
+            "indication": "",
+            "usage": "",
+            "contraindication": "",
+            "side_effect": "",
+            "interaction": "",
+            "warning": "",
+            "storage": ""
+        },
+        "ingredients": [
+            {
+                "name": "Tripotassium dicitrato bismuthate",
+                "strength": "300 mg",
+                "effect": "",
+                "indication": "",
+                "dosage": "",
+                "contraindication": "",
+                "interaction": "",
+                "side_effect": "",
+                "warning": ""
+            }
+        ]
+    }
+]
