@@ -1,4 +1,4 @@
-# Biểu Đồ Lớp (Class Diagram - BĐ)
+# Biểu Đồ Lớp (Class Diagram)
 
 Tài liệu mô tả chi tiết danh sách các Lớp (Classes), thuộc tính (Attributes), phương thức (Methods) và vai trò của từng thành phần trong hệ thống.
 
